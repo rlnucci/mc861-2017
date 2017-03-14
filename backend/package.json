@@ -19,7 +19,8 @@
   "homepage": "https://github.com/rlnucci/mc861-2017#readme",
   "dependencies": {
     "koa": "^2.1.0",
-    "koa-router": "^5.4.0"
+    "koa-bodyparser": "^4.1.0",
+    "koa-router": "^7.0.1"
   },
   "devDependencies": {
     "babel-cli": "^6.23.0",
